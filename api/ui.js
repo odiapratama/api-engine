@@ -48,43 +48,36 @@ module.exports = {
                 },
                 {
                     "id": 2,
-                    "name": "username",
-                    "label": "Username",
-                    "type": "text",
-                    "placeholder": "Enter your username"
-                },
-                {
-                    "id": 3,
                     "name": "email",
                     "label": "Email",
                     "type": "email",
                     "placeholder": "Enter your email"
                 },
                 {
-                    "id": 4,
+                    "id": 3,
                     "name": "password",
                     "label": "Password",
                     "type": "password",
                     "placeholder": "Enter your password"
                 },
                 {
-                    "id": 5,
+                    "id": 4,
                     "name": "confirmPassword",
                     "label": "Confirm Password",
                     "type": "password",
                     "placeholder": "Confirm your password"
                 },
                 {
+                    "id": 5,
+                    "name": "tncPrivacy",
+                    "label": "I agree to Terms & Conditions and Privacy Policy",
+                    "type": "checkbox"
+                },
+                {
                     "id": 6,
                     "name": "submit",
                     "label": "Register",
                     "type": "submit"
-                },
-                {
-                    "id": 7,
-                    "name": "tncPrivacy",
-                    "label": "I agree to Terms & Conditions and Privacy Policy",
-                    "type": "checkbox"
                 }
             ]
         },
