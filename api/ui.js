@@ -44,7 +44,8 @@ module.exports = {
                     "id": 1,
                     "name": "fullName",
                     "label": "Full Name",
-                    "type": "text"
+                    "type": "text",
+                    "placeholder": "Enter your full name"
                 },
                 {
                     "id": 2,
