@@ -56,26 +56,33 @@ module.exports = {
                 },
                 {
                     "id": 3,
+                    "name": "phone",
+                    "label": "Phone Number",
+                    "type": "phone",
+                    "placeholder": "08123456789"
+                },
+                {
+                    "id": 4,
                     "name": "password",
                     "label": "Password",
                     "type": "password",
                     "placeholder": "Enter your password"
                 },
                 {
-                    "id": 4,
+                    "id": 5,
                     "name": "confirmPassword",
                     "label": "Confirm Password",
                     "type": "password",
                     "placeholder": "Confirm your password"
                 },
                 {
-                    "id": 5,
+                    "id": 6,
                     "name": "tncPrivacy",
                     "label": "I agree to Terms & Conditions and Privacy Policy",
                     "type": "checkbox"
                 },
                 {
-                    "id": 6,
+                    "id": 7,
                     "name": "submit",
                     "label": "Register",
                     "type": "submit"
