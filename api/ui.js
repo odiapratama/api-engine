@@ -8,7 +8,7 @@ module.exports = {
             "header": {
                 "title": "Login",
                 "description": "Please enter your username and password",
-                "image": "https://www.example.com/login.jpg"
+                "image": "https://www.google.com/images/branding/googlelogo/1x/googlelogo_color_272x92dp.png"
             },
             "fields": [
                 {
@@ -59,7 +59,7 @@ module.exports = {
                     "name": "phone",
                     "label": "Phone Number",
                     "type": "phone",
-                    "placeholder": "08123456789"
+                    "placeholder": "8123456789"
                 },
                 {
                     "id": 4,
