@@ -15,7 +15,7 @@ module.exports = {
                     "id": 1,
                     "name": "username",
                     "label": "Username",
-                    "type": "text",
+                    "type": "email",
                     "placeholder": "Enter your username"
                 },
                 {
